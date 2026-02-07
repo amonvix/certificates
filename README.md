@@ -6,98 +6,100 @@
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-# certificates
+# Certificates & Credentials
 
-Curated repository of my professional certificates, academic diploma, and learning milestones.  
-This repository exists to provide **verifiable evidence** of skills applied in real-world projects, bridging formal education, certifications, and production-grade implementations.
+This repository serves as a **central evidence hub** for my academic diploma and professional certifications — all verifiable and organized by domain.  
+Each item here supports skills used in active project work across cloud, data, infrastructure, and tooling.
 
 ---
 
 ## 🎓 Academic Degree
 
-- **Diploma — Análise e Desenvolvimento de Sistemas (ADS)**  
-  Institution: Universidade Estácio de Sá  
-  Evidence: `./diploma/`  
-  Transcript (GPA/coeficiente): `./historico/`
+### Diploma — Análise e Desenvolvimento de Sistemas (ADS)  
+- **Institution:** Universidade Estácio de Sá  
+- **Evidence Folder:** `./diploma/`  
+- **Academic Transcript:** `./historico/`
 
-This academic foundation supports the systems thinking and engineering practices demonstrated across the projects below.
-
----
-
-## 🏅 Badges & Public Profiles
-
-- **Credly (Open Badges)**  
-  https://www.credly.com/users/amonvix  
-  Public verification of issued badges by providers (AWS, Microsoft partners, etc.)
-
-- **LinkedIn Skills & Certificates**  
-  https://www.linkedin.com/in/amonvix  
-  Public profile with endorsements, certificates, and project highlights
-
-- **GitHub Profile**  
-  https://github.com/amonvix  
-  Source of truth for production-grade projects and infrastructure
-
-Badges provide tamper-proof verification and complement the PDFs stored in this repository.
+This degree provides foundational systems engineering knowledge that underpins all technical work shown in my portfolio.
 
 ---
 
-## 🧾 Certifications (by domain)
+## 🏆 Badges & Verified Profiles
+
+Public, third-party verified records that prove badge ownership and certification issuance:
+
+**Credly Open Badges**  
+🔗 https://www.credly.com/users/amonvix
+
+**LinkedIn Certifications & Skills**  
+🔗 https://www.linkedin.com/in/amonvix
+
+**GitHub Profile (activity & code portfolio)**  
+🔗 https://github.com/amonvix
+
+Badges from Credly can be clicked through for issuer verification and metadata — these complement the PDF evidence here.
+
+---
+
+## 📜 Certifications by Domain
 
 ### ☁️ Cloud & DevOps
-Evidence: `./cloud/`  
-Applied in:
-- Terraform on ECS → https://github.com/amonvix/terraform-ecs-microservice  
-- AWS networking, IAM least-privilege, container orchestration  
-Key topics: AWS fundamentals, VPC, ECS, IAM, cost awareness, IaC
+Designed to validate hands-on skills in cloud architecture, IAM, networking, and orchestration.
 
-### 🤖 Data / ML
-Evidence: `./data-ml/`  
-Applied in:
-- Titanic Survival Prediction → https://github.com/amonvix/titanic-survival-prediction  
-Key topics: data preprocessing, model training, evaluation, API deployment
+**Folder with evidence:** `./cloud/`  
+**Key topics:** AWS basics, VPC, ECS, IAM, security groups, infrastructure provisioning
 
-### 🧰 Engineering / Tooling
-Evidence: `./engineering/`  
-Applied in:
-- go-doc-agent → https://github.com/amonvix/go-doc-agent  
-Key topics: AST parsing, code generation, automation, modular architecture
-
-### 🔐 Security
-Evidence: `./security/`  
-Applied in:
-- IAM roles (least privilege) in Terraform/ECS  
-- Secure defaults in pipelines and services  
-Key topics: AppSec fundamentals, cloud security basics, identity and access control
+**Applied in Projects:**
+- ✨ [terraform-ecs-microservice](https://github.com/amonvix/terraform-ecs-microservice) — infrastructure-as-code on AWS ECS
+- Cloud automation, secure defaults, architectural patterns
 
 ---
 
-## 🔗 Projects Connected to These Credentials
+### 🤖 Data & Machine Learning
+Certifications validating structured data processing, model training, validation, and deployment workflows.
 
-- **go-doc-agent**  
-  Repo: https://github.com/amonvix/go-doc-agent  
-  Demonstrates tooling engineering, automation pipelines, and architecture design.
+**Folder with evidence:** `./data-ml/`  
+**Key topics:** ML fundamentals, data pipelines, model evaluation
 
-- **titanic-survival-prediction**  
-  Repo: https://github.com/amonvix/titanic-survival-prediction  
-  Demonstrates ML in production, CI/CD, and API exposure.
-
-- **terraform-ecs-microservice**  
-  Repo: https://github.com/amonvix/terraform-ecs-microservice  
-  Demonstrates Infrastructure as Code, AWS ECS orchestration, and secure cloud design.
+**Applied in Projects:**
+- 🚀 [titanic-survival-prediction](https://github.com/amonvix/titanic-survival-prediction) — ML model deployed as an API
 
 ---
 
-## 🧭 Verification & Evidence
+### 🧠 Engineering & Tooling
+Certificates that ensure best practices in software development, automation, and developer tooling.
 
-- PDFs are organized by domain for auditability.  
-- Public badge links (Credly/LinkedIn) provide third-party verification.  
-- Project links demonstrate **practical application** of certified knowledge in production contexts.  
-- This repository intentionally prioritizes evidence over claims.
+**Folder with evidence:** `./engineering/`  
+**Key topics:** coding standards, tooling ecosystems, automation
+
+**Applied in Projects:**
+- 🔧 [go-doc-agent](https://github.com/amonvix/go-doc-agent) — code generation tooling and AST automation
 
 ---
 
-## 📌 Status
+### 🔐 Security Fundamentals
+Foundation certificates in security principles applicable across cloud, containers, and infrastructure.
 
-Continuously updated as new certifications and academic milestones are completed.  
-This repository is part of a personal DevOps & Cloud engineering portfolio.
+**Folder with evidence:** `./security/`  
+**Key topics:** AppSec basics, identity and access controls
+
+**Applied in Projects:**
+- AWS IAM least-privilege roles
+- Secure design choices in Terraform deployments
+
+---
+
+## 🧭 How to Validate
+
+All certificates in this repository are supported by evidence stored here as PDFs.  
+Where available, public badge links on Credly and LinkedIn can be clicked for issuer verification and structured metadata.  
+
+Each project listed above demonstrates **applied use of the certified skills** — it’s not theoretical, it’s production-oriented.
+
+---
+
+## 📌 Continuously Updated
+
+This repository is actively maintained and expanded as new learning milestones and certifications are achieved.
+
+It is a **living part of my DevOps & Cloud-driven portfolio**, supporting real project work with verifiable credentials.
