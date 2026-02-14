@@ -1,4 +1,4 @@
-# 🎓 My portfolio
+# 🎓 Portfólio de Certificados
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -6,100 +6,102 @@
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-# Certificates & Credentials
+# Certificados & Credenciais
 
-This repository serves as a **central evidence hub** for my academic diploma and professional certifications — all verifiable and organized by domain.  
-Each item here supports skills used in active project work across cloud, data, infrastructure, and tooling.
-
----
-
-## 🎓 Academic Degree
-
-### Diploma — Análise e Desenvolvimento de Sistemas (ADS)  
-- **Institution:** Universidade Estácio de Sá  
-- **Evidence Folder:** `./diploma/`  
-- **Academic Transcript:** `./historico/`
-
-This degree provides foundational systems engineering knowledge that underpins all technical work shown in my portfolio.
+Este repositório serve como um **centro de conquistas** da minha jornada acadêmica e certificações profissionais — todos verificáveis ​​e organizados por domínio.
+Cada item aqui comprova habilidades usadas em projetos ativos nas áreas de nuvem, dados, infraestrutura e ferramentas.
 
 ---
 
-## 🏆 Badges & Verified Profiles
+## 🎓 Grau Acadêmico
 
-Public, third-party verified records that prove badge ownership and certification issuance:
+### Diploma — Análise e Desenvolvimento de Sistemas (ADS)
 
-**Credly Open Badges**  
-🔗 https://www.credly.com/users/amonvix
+- **Faculdade:** Universidade Estácio de Sá
+- [**Diploma:**](https://consultadiploma.estacio.br/diploma/163.163.98617b1c929f)
+- [**Página de validação**](https://verificadordiplomadigital.mec.gov.br/diploma)
+- [**Histórico Escolar**](https://consultadocumentosdigitais.estacio.br/hed/163.17135eb3ac72)
 
-**LinkedIn Certifications & Skills**  
-🔗 https://www.linkedin.com/in/amonvix
+Formação superior em tecnologia com foco em desenvolvimento de software, arquitetura de sistemas, banco de dados, redes, engenharia de software e fundamentos de computação.
+
+---
+
+## 🏆 Distintivos e perfis verificados
+
+Registros públicos verificados por terceiros que comprovam a emissão de certificados e distintivos:
+
+**Credly Badges**  
+🔗 https://www.credly.com/users/daniel-pedroso
+
+**LinkedIn Perfil**  
+🔗 https://www.linkedin.com/in/daniel-amon-pedroso
 
 **GitHub Profile (activity & code portfolio)**  
 🔗 https://github.com/amonvix
 
-Badges from Credly can be clicked through for issuer verification and metadata — these complement the PDF evidence here.
-
 ---
 
-## 📜 Certifications by Domain
+## 📜 Certificações por Competência
 
 ### ☁️ Cloud & DevOps
-Designed to validate hands-on skills in cloud architecture, IAM, networking, and orchestration.
 
-**Folder with evidence:** `./cloud/`  
-**Key topics:** AWS basics, VPC, ECS, IAM, security groups, infrastructure provisioning
+Voltado a validar habilidades práticas em arquitetura de nuvem, IAM, redes e orquestração. Sempre que possível, o aprendizado foi aplicado aos projetos mencionados:
 
-**Applied in Projects:**
-- ✨ [terraform-ecs-microservice](https://github.com/amonvix/terraform-ecs-microservice) — infrastructure-as-code on AWS ECS
-- Cloud automation, secure defaults, architectural patterns
+**Conceitos Usados:** AWS basics, VPC, ECS, IAM, security groups, provisionamento de infraestrutura
+
+**Aplicação em Projetos:**
+
+- ✨ [terraform-ecs-microservice](https://github.com/amonvix/terraform-ecs-microservice) — IaC no AWS ECS, Automação em nuvem, padrões seguros, padrões arquitetônicos
 
 ---
 
 ### 🤖 Data & Machine Learning
-Certifications validating structured data processing, model training, validation, and deployment workflows.
 
-**Folder with evidence:** `./data-ml/`  
-**Key topics:** ML fundamentals, data pipelines, model evaluation
+Validação dos aprendizados em processamento de dados estruturados, treinamento de modelos, validação, e fluxo de implantação.
 
-**Applied in Projects:**
-- 🚀 [titanic-survival-prediction](https://github.com/amonvix/titanic-survival-prediction) — ML model deployed as an API
+**Conceitos Usados:** Fundamentos de ML, pipeline de dados, avaliação de modelos
 
----
+**Aplicação em Projetos:**
 
-### 🧠 Engineering & Tooling
-Certificates that ensure best practices in software development, automation, and developer tooling.
-
-**Folder with evidence:** `./engineering/`  
-**Key topics:** coding standards, tooling ecosystems, automation
-
-**Applied in Projects:**
-- 🔧 [go-doc-agent](https://github.com/amonvix/go-doc-agent) — code generation tooling and AST automation
+- 🚀 [titanic-survival-prediction](https://github.com/amonvix/titanic-survival-prediction) — modelo de ML exposto como API
 
 ---
 
-### 🔐 Security Fundamentals
-Foundation certificates in security principles applicable across cloud, containers, and infrastructure.
+### 🧠 Engenharia & Ferramentas
 
-**Folder with evidence:** `./security/`  
-**Key topics:** AppSec basics, identity and access controls
+Aprendizado com base em princípios de segurança aplicáveis a cloud, containers e infraestrutura.
 
-**Applied in Projects:**
-- AWS IAM least-privilege roles
-- Secure design choices in Terraform deployments
+**Conceitos Usados:** padrões de codificação, ecossistemas de ferramentas, automação
 
----
+**Aplicação em Projetos:**
 
-## 🧭 How to Validate
-
-All certificates in this repository are supported by evidence stored here as PDFs.  
-Where available, public badge links on Credly and LinkedIn can be clicked for issuer verification and structured metadata.  
-
-Each project listed above demonstrates **applied use of the certified skills** — it’s not theoretical, it’s production-oriented.
+- 🔧 [go-doc-agent](https://github.com/amonvix/go-doc-agent) — Ferramentas de geração de código e automação de AST
 
 ---
 
-## 📌 Continuously Updated
+### 🔐 Fundamentos de Segurança
 
-This repository is actively maintained and expanded as new learning milestones and certifications are achieved.
+Estudos básicos em princípios de segurança aplicáveis ​​em nuvem, contêineres e infraestrutura.
 
-It is a **living part of my DevOps & Cloud-driven portfolio**, supporting real project work with verifiable credentials.
+**Conceitos Usados:** fundamentos de AppSec, identidade e controle de acesso (IAM)
+
+**Aplicação em Projetos:**
+
+- ✨ [terraform-ecs-microservice](https://github.com/amonvix/terraform-ecs-microservice) — IaC no AWS ECS, Automação em nuvem, padrões seguros, padrões arquitetônicos
+
+---
+
+## 🧭 Como validar
+
+Todos os certificados neste repositório são respaldados por evidências armazenadas aqui em formato PDF.
+Quando disponíveis, os links para os selos públicos no Credly e no LinkedIn podem ser clicados para verificação do emissor e metadados estruturados.
+
+Cada projeto listado acima demonstra a **aplicação prática das habilidades certificadas** — não é teórico, é orientado para a produção.
+
+---
+
+## 📌 Atualizado continuamente
+
+Este repositório é mantido e expandido ativamente à medida que novas conquistas de aprendizado e certificações são alcançadas.
+
+Ele é uma **parte ativa do meu portfólio de DevOps e computação em nuvem**, que oferece suporte a projetos reais com credenciais verificáveis.
